@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChikleNeha
 - 👀 I’m interested in React JS, python, AR and AI.
-- 🌱 I’m currently learning javaScript & python.
+- 🌱 I’m currently learning generative AI.
 
 
 <!---

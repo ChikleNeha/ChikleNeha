@@ -12,9 +12,9 @@
 
 ## About Me
 
-I'm a Computer Science student at Dr. Babasaheb Ambedkar Technological University, passionate about building accessible, meaningful software. I care about who gets left out of tech — and I build tools to close that gap.
+I'm a Computer Science student at Dr. Babasaheb Ambedkar Technological University, passionate about building accessible, meaningful software. I care about who gets left out of tech and I build tools to close that gap.
 
-- 🔭 Currently working on **CodeVedha** — an audio-first Python tutor for blind & visually impaired learners
+- 🔭 Currently working on **CodeVedha** an audio-first Python tutor for blind & visually impaired learners
 - 🤖 Exploring **agentic AI**, LangGraph, and multi-agent systems
 - 🏆 2nd place @ RSM Hackathon · National qualifier @ Smart India Hackathon
 - 🎯 Looking for full-time roles in **AI/ML engineering** after graduation
@@ -51,7 +51,7 @@ I'm a Computer Science student at Dr. Babasaheb Ambedkar Technological Universit
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**CodeVedha**](https://github.com/ChikleNeha/CodeVedha2) | Audio-first Python tutoring platform for visually impaired learners | LangGraph · FastAPI · React · Ollama |
-| [**PharmAgent**](https://github.com/ChikleNeha/PharmAgent2) | Three-agent agentic pharmacy system — built at HackFusion 3.0 | LangChain · FastAPI · Python |
+| [**PharmAgent**](https://github.com/ChikleNeha/PharmAgent2) | Three-agent agentic pharmacy system built at HackFusion 3.0 | LangChain · FastAPI · Python |
 | [**AI Flashcard Generator**](https://github.com/ChikleNeha/AI_Flashcard_generator) | Generates study flashcards from any text using LLMs | Python · React |
 
 ---
